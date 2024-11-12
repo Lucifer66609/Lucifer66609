@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I'm an IT Security student with a passion for tech
     Platforms: Kali Linux, Windows, Android
     Current Projects:
         Athena: Custom assistant application with gaming and productivity features.
-        Widgets: Creating widgets for Untis, Spotify, Outlook, and Microsoft Teams on Linux.
-        CalculatorApp: A Java project developed for my Programming 2 studies.
 
 📈 My Goals
 
